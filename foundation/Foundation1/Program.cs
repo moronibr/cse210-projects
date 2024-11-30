@@ -22,10 +22,8 @@ public class Program
         video3.AddComment(new Comment("Eduardo(Dudu)", "Excellent examples and explanations."));
         video3.AddComment(new Comment("Mariana", "Looking forward to more videos like this."));
 
-        
         List<Video> videos = new List<Video> { video1, video2, video3 };
 
-       
         foreach (var video in videos)
         {
             Console.WriteLine($"Title: {video.Title}");
