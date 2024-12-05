@@ -1,0 +1,4 @@
+14
+Simple Goal:      simples,sim,10,True
+Eternal Goal:eter,etr,1
+Check List Goal:      check,list,1,2, 3, 3
