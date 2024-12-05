@@ -1,0 +1,2 @@
+100
+Simple Goal:  Dar um discurso na reunião sacramental,discursar na reunião sacramental quando for chamado,100,True
